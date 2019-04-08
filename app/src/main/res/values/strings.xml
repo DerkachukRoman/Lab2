@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="recipesbook">Лабораторна робота 2</string>
+    <string name="Add">Add</string>
+    <string name="add_recipe">Add recipe</string>
+    <string name="search">Пошук</string>
+    <string name="todo">TODO</string>
+    <string name="recipe_1">Кнопка</string>
+    <string name="item">item</string>
+    <string name="todo1">TODO</string>
+    <string name="search1">Пошук</string>
+</resources>
